@@ -1,5 +1,3 @@
-# Team-84: Bhuvanendra Putchala and Sneha Sasanapuri
-
 # AI-Driven Music Caption Generation Using Large Language Models
 <img width="842" alt="Screenshot 2024-12-13 at 9 37 09 PM" src="https://github.com/user-attachments/assets/81c2710e-cd67-4527-a094-92b9a689fe5a" />
 
